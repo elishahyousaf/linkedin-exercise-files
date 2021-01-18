@@ -1,1 +1,27 @@
-# linkedin-exercise-files
+# Linkedin-exercise-files
+
+
+..
+..
+
+
+
+
+
+...
+
+....
+
+.....
+
+
+
+Python project
+
+..
+
+
+...
+
+
+.
