@@ -1,4 +1,4 @@
-age = 36
+age = 36d
 print(age)
 print(type(age))
 
