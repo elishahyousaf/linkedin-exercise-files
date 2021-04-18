@@ -1,5 +1,6 @@
 /*
    Statements used in 'Learning SQL Programming'
+   
 */
 
 -- 00_03
