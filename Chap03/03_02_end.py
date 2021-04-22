@@ -1,5 +1,5 @@
 cookies = 'Sugar'
-print(cookies)
+print(cookies)  
 print(type(cookies))
 
 cookies = 1
